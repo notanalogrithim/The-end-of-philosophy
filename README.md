@@ -1,5 +1,5 @@
 # The-end-of-philosophy
-Philosophy is broken, we can build it up and save it.   
+Reality is broken, we can build it up and save it.   
 If you are interested and believe I am wrong please submit an issue, that is where most stuff is going down.
 
 # Rules
